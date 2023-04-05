@@ -86,8 +86,7 @@ const styles = StyleSheet.create({
 
   input: {
     width: "90%",
-    maxWith: "90%",
-    height: 54
+    height: 54,
 
   }
 })
